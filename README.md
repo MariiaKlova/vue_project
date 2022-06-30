@@ -1,4 +1,5 @@
 # vue_project
+[My Project](https://mariiaklova.github.io/vue_project/)
 
 ## Project setup
 ```
